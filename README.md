@@ -1,4 +1,7 @@
-# rule-based-AI-chatbot-
-I am excited because
+# rule-based-AI-chatbot and basic calculator
+
+here two file available
 <br>
-I learn new things
+1.calculator =   basic calculator
+<br>
+2.main = simple AI chatbot
