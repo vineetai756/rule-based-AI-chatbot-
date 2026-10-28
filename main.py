@@ -48,7 +48,7 @@ while True:
     if "bye" in userinput.lower():
         break
 
-    time.sleep() # wait for 1 second
+    time.sleep(3) # wait for 1 second
 
     reply= getresponseofbot(userinput)
     print(reply)
